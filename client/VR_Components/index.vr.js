@@ -9,11 +9,9 @@ import {
 } from 'react-vr';
 import PropTypes from 'prop-types'
 
-
 //import buttons
 import RoomButton from './components/RoomButton';
 import FurniButton from './components/FurniButton';
-
 
 //import router
 import Router from 'react-router/MemoryRouter';
@@ -78,7 +76,7 @@ export default class Final_Project extends React.Component {
         const rotation =  this.state.rotation + panoPhoto.rotationOffset;
 
         return(
-
+            //return the view
             <View style={{transform: [{rotateY:0}]}}>
                 <Pano
                     source = {asset(this.state.data.photos[locationId].uri)} />
