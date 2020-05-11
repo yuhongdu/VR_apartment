@@ -1,0 +1,82 @@
+{
+   "nav_icon": "chester_icon.png",
+   "firstSpot":"1",
+   "firstSpotRotation":0,
+
+   "photos":{
+      "1":{
+         "rotationOffset": 190,
+         "uri":"/projects/zhongshi/spot 1.jpg",
+         "surroundings":[
+             {
+                "text":"Gym",
+                "rotationY": 10,
+                "rotationZ":0,
+                "PhotoId":"3",
+                "factor":0.6
+             },
+             {
+                "text":"Living Room",
+                "rotationY": -10,
+                "rotationZ":0,
+                "PhotoId":"2",
+                "factor":0.7
+             }
+         ]
+      },
+      "2":{
+         "rotationOffset": 0,
+         "uri":"/projects/zhongshi/spot 2.jpg",
+         "surroundings":[
+            {
+               "text":"Dinning Room",
+               "rotationY": 170,
+               "rotationZ":0,
+               "PhotoId":"2",
+               "factor":1
+            },
+            {
+               "text":"Living Room",
+               "rotationY": -15,
+               "rotationZ":0,
+               "PhotoId":"2",
+               "factor":1
+            },
+            {
+               "text":"Vestibule",
+               "rotationY": -80,
+               "rotationZ":0,
+               "PhotoId":"1",
+               "factor":1
+            },
+            {
+               "text":"Gym",
+               "rotationY": 90,
+               "rotationZ":0,
+               "PhotoId":"3",
+               "factor":1
+            }
+         ]
+      },
+      "3":{
+         "rotationOffset": 180,
+         "uri":"/projects/zhongshi/spot 3.jpg",
+         "surroundings":[
+            {
+               "text":"Living Room",
+               "rotationY": 13,
+               "rotationZ":0,
+               "PhotoId":"2",
+               "factor": 0.8
+            },
+            {
+               "text":"Vestibule",
+               "rotationY": 8,
+               "rotationZ":-2,
+               "PhotoId":"1",
+               "factor": 0.6
+            }
+         ]
+      }
+   }
+}

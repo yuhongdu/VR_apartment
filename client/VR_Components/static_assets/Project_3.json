@@ -1,0 +1,181 @@
+{
+   "nav_icon": "chester_icon.png",
+   "firstSpot":"1",
+   "firstSpotRotation":90,
+
+   "photos":{
+      "1":{
+         "rotationOffset": 0,
+         "uri":"./projects/good/spot 1.jpg",
+         "surroundings":[
+             {
+                "text":"The Kitchen",
+                "rotationY": 20,
+                "rotationZ":0,
+                "PhotoId":"2",
+                "factor":1
+             },
+             {
+                "text":"Living Room",
+                "rotationY": -10,
+                "rotationZ":0,
+                "PhotoId":"3",
+                "factor":0.7
+             },
+             {
+                "type": "Furniture",
+                "title": "IKEA STORNÄS Table",
+                "rotationY": -49,
+                "rotationZ":0,
+                "factor":1,
+                "text": "Extendable table, brown-black, $399.00",
+                "uri": "http://www.ikea.com/us/en/catalog/products/40184945/"
+             }
+         ]
+      },
+      "2":{
+         "rotationOffset": -25,
+         "uri":"./projects/good/spot 2.jpg",
+         "surroundings":[
+            {
+               "text":"Dinning Room",
+               "rotationY": -60,
+               "rotationZ":0,
+               "PhotoId":"1",
+               "factor":1
+            },
+            {
+               "text":"Living Room",
+               "rotationY": 30,
+               "rotationZ":0,
+               "PhotoId":"3",
+               "factor":1
+            }
+         ]
+      },
+      "3":{
+         "rotationOffset": -40,
+         "uri":"./projects/good/spot 3.jpg",
+         "surroundings":[
+            {
+               "text":"Kitchen",
+               "rotationY": -60,
+               "rotationZ":0,
+               "PhotoId":"2",
+               "factor": 1
+            },
+            {
+               "text":"Dinning Room",
+               "rotationY": -40,
+               "rotationZ":0,
+               "PhotoId":"1",
+               "factor": 0.7
+            },
+           
+           {
+                "type": "Furniture",
+                "title": "Restoration Hardware Sofa",
+                "rotationY": 60,
+                "rotationZ":-20,
+                "factor":1,
+                "color":"true",
+                "text": "MAXWELL SOFA, $1995 - $6895",
+                "uri": "https://www.restorationhardware.com/catalog/product/product.jsp?productId=prod8760140&categoryId=cat10050004"
+             }
+         ]
+      },
+      "4":{
+         "rotationOffset": -40,
+         "uri":"./projects/good/blue.jpg",
+         "surroundings":[
+            {
+               "text":"Kitchen",
+               "rotationY": -60,
+               "rotationZ":0,
+               "PhotoId":"2",
+               "factor": 1
+            },
+            {
+               "text":"Dinning Room",
+               "rotationY": -40,
+               "rotationZ":0,
+               "PhotoId":"1",
+               "factor": 0.7
+            },
+           
+           {
+                "type": "Furniture",
+                "title": "Restoration Hardware Sofa",
+                "rotationY": 60,
+                "rotationZ":-20,
+                "factor":1,
+                "color":"true",
+                "text": "MAXWELL SOFA, $1995 - $6895",
+                "uri": "https://www.restorationhardware.com/catalog/product/product.jsp?productId=prod8760140&categoryId=cat10050004"
+             }
+         ]
+      },
+      "5":{
+         "rotationOffset": -40,
+         "uri":"./projects/good/yellow.jpg",
+         "surroundings":[
+            {
+               "text":"Kitchen",
+               "rotationY": -60,
+               "rotationZ":0,
+               "PhotoId":"2",
+               "factor": 1
+            },
+            {
+               "text":"Dinning Room",
+               "rotationY": -40,
+               "rotationZ":0,
+               "PhotoId":"1",
+               "factor": 0.7
+            },
+           
+           {
+                "type": "Furniture",
+                "title": "Restoration Hardware Sofa",
+                "rotationY": 60,
+                "rotationZ":-20,
+                "factor":1,
+                "color":"true",
+                "text": "MAXWELL SOFA, $1995 - $6895",
+                "uri": "https://www.restorationhardware.com/catalog/product/product.jsp?productId=prod8760140&categoryId=cat10050004"
+             }
+         ]
+      },
+      "6":{
+         "rotationOffset": -40,
+         "uri":"./projects/good/green.jpg",
+         "surroundings":[
+            {
+               "text":"Kitchen",
+               "rotationY": -60,
+               "rotationZ":0,
+               "PhotoId":"2",
+               "factor": 1
+            },
+            {
+               "text":"Dinning Room",
+               "rotationY": -40,
+               "rotationZ":0,
+               "PhotoId":"1",
+               "factor": 0.7
+            },
+           
+           {
+                "type": "Furniture",
+                "title": "Restoration Hardware Sofa",
+                "rotationY": 60,
+                "rotationZ":-20,
+                "factor":1,
+                "color":"true",
+                "text": "MAXWELL SOFA, $1995 - $6895",
+                "uri": "https://www.restorationhardware.com/catalog/product/product.jsp?productId=prod8760140&categoryId=cat10050004"
+             }
+         ]
+      }
+   }
+}
